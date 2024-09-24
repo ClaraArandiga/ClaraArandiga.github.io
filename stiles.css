@@ -1,8 +1,20 @@
+h1 {
+    text-align: center;
+}
+
 button {
     background-color: #204e1c;
     color: white;
     border: none;
     border-radius: 90px;
-    padding: 20px 40px;
-    font-size: 20px;
+    width: 100px;
+    height: 25px;
+    font-size: 10px;
+}
+
+#header {
+    background-color: gray;
+    width: auto;
+    height: 100px;
+    padding: 50px;
 }
